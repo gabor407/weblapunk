@@ -28,7 +28,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png"
   },
@@ -85,7 +85,7 @@
               "size": 250
             }
           },
-          "title": "3D nyomtatás és tervezés rövid határidővel",
+          "title": "3D nyomtatás és tervezés rövid határidővel.",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">REFERENCIÁK<br></a>",
           "_tags": [
@@ -115,7 +115,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Lépjen kapcsolatba velünk.",
+          "title": "Lépjen kapcsolatba velünk!",
           "subtitle": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">KÜLDÉS</a>",
           "form": {
