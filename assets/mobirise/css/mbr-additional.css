@@ -524,8 +524,19 @@ section.form .container {
 #header2-h .mbr-section-title {
   text-align: center;
 }
+#header2-h .mbr-section-text {
+  text-align: center;
+}
 #form1-i .form-control-label {
   color: #232323;
+}
+#social-buttons2-w .mbr-section-title,
+#social-buttons2-w .btn-social {
+  color: #232323;
+}
+#social-buttons2-w .btn-social > * {
+  vertical-align: middle;
+  padding-right: 0;
 }
 #header2-8 .mbr-section-title {
   text-align: center;
