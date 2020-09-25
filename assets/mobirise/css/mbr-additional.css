@@ -655,6 +655,9 @@ section.form .container {
 #menu-v .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#content2-t P {
+  text-align: left;
+}
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
 }
