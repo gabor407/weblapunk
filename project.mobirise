@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-14_2043",
-    "currentPage": "page8.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -512,8 +512,8 @@
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2020822-1742492020-8-2-18-10-16.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=Xah6a_ZH1mc",
-                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mobirise2020822-1742492020-8-2-18-10.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/mobirise2020822-1742492020-8-2-18-10-800x450.jpeg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
